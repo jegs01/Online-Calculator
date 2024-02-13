@@ -2,9 +2,6 @@
 html, body {
     height: 100%;
 }
-h3 {
-    color: white; /* Set text color to white */
-}
 
 body {
     background-color: #999;
