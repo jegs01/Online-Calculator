@@ -2,7 +2,10 @@
 html, body {
     height: 100%;
 }
-h3 {color: #ccc;}
+h3 {
+    color: white; /* Set text color to white */
+}
+
 body {
     background-color: #999;
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#7c7c7c+0,000000+100 */
