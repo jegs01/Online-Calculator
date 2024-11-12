@@ -1,4 +1,4 @@
-# Online Calculator by Jegs01
+# Online Calculator by Kolawole Jegede
 
 Welcome to my **Online Calculator**! This calculator was designed to perform basic arithmetic operations in a simple, user-friendly interface. It provides easy access to essential calculations directly from your browser.
 
